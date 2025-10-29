@@ -2,6 +2,11 @@
 
 Program sederhana dalam bahasa Dart untuk menghitung diskon harga barang.
 
+Nama : zaizafun Hanifah Zainnur Hanun
+NIM : H1D023021
+Shift Baru : C
+Shift KRS : A
+
 ## Cara Kerja
 
 Program ini meminta input harga barang dan persentase diskon dari pengguna, lalu menghitung total harga setelah diskon.
