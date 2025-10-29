@@ -2,10 +2,7 @@
 
 Program sederhana dalam bahasa Dart untuk menghitung diskon harga barang.
 
-Nama : zaizafun Hanifah Zainnur Hanun
-NIM : H1D023021
-Shift Baru : C
-Shift KRS : A
+Nama : zaizafun Hanifah Zainnur Hanun | NIM : H1D023021
 
 ## Cara Kerja
 
