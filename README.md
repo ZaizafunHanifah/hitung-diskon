@@ -32,11 +32,6 @@ Program ini meminta input harga barang dan persentase diskon dari pengguna, lalu
 7. **Output**:
    - Tampilkan harga awal, diskon, potongan, dan total bayar dengan format rupiah.
 
-## Cara Menjalankan
-
-1. Pastikan Dart SDK terinstall.
-2. Jalankan `dart run` di direktori proyek.
-
 ## Contoh Penggunaan
 
 ```
